@@ -1,0 +1,6 @@
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatternsDatabase\bin\Debug\DotNetDesignPatternsDatabase.exe.config
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatternsDatabase\bin\Debug\DotNetDesignPatternsDatabase.exe
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatternsDatabase\bin\Debug\DotNetDesignPatternsDatabase.pdb
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatternsDatabase\obj\Debug\DotNetDesignPatternsDatabase.csprojAssemblyReference.cache
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatternsDatabase\obj\Debug\DotNetDesignPatternsDatabase.exe
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatternsDatabase\obj\Debug\DotNetDesignPatternsDatabase.pdb

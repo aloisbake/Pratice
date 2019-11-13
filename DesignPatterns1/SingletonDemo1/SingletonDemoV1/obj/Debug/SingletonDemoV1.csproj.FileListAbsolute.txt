@@ -1,0 +1,6 @@
+C:\Users\alois\source\repos\Practice\DesignPatterns1\SingletonDemo1\SingletonDemoV1\bin\Debug\SingletonDemoV1.exe.config
+C:\Users\alois\source\repos\Practice\DesignPatterns1\SingletonDemo1\SingletonDemoV1\bin\Debug\SingletonDemoV1.exe
+C:\Users\alois\source\repos\Practice\DesignPatterns1\SingletonDemo1\SingletonDemoV1\bin\Debug\SingletonDemoV1.pdb
+C:\Users\alois\source\repos\Practice\DesignPatterns1\SingletonDemo1\SingletonDemoV1\obj\Debug\SingletonDemoV1.csprojAssemblyReference.cache
+C:\Users\alois\source\repos\Practice\DesignPatterns1\SingletonDemo1\SingletonDemoV1\obj\Debug\SingletonDemoV1.exe
+C:\Users\alois\source\repos\Practice\DesignPatterns1\SingletonDemo1\SingletonDemoV1\obj\Debug\SingletonDemoV1.pdb
