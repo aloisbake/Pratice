@@ -1,0 +1,5 @@
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatterns\bin\Debug\DotNetDesignPatterns.exe.config
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatterns\bin\Debug\DotNetDesignPatterns.exe
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatterns\bin\Debug\DotNetDesignPatterns.pdb
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatterns\obj\Debug\DotNetDesignPatterns.exe
+C:\Users\alois\source\repos\Practice\DesignPatterns\DotNetDesignPatterns\obj\Debug\DotNetDesignPatterns.pdb
